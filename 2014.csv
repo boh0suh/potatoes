@@ -1,1 +1,8 @@
-Day,Total,Alcohol-related,Speed-relatedSunday,"4,637",461,645Monday,"7,010",244,627Tuesday,"7,262",222,702Wednesday,"7,544",245,730Thursday,"7,372",237,712Friday,"8,079",368,806Saturday,"6,214",535,735
+Day,Category 1,Category 2,Category 3
+Sunday,"4,637",461,645
+Monday,"7,010",244,627
+Tuesday,"7,262",222,702
+Wednesday,"7,544",245,730
+Thursday,"7,372",237,712
+Friday,"8,079",368,806
+Saturday,"6,214",535,735
